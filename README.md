@@ -1,5 +1,7 @@
 # Dog Recognizer
 
+![Last Care](https://img.shields.io/github/last-commit/treoa/dog-recognizer)
+
 ### For testing on images:
 
 1. Clone thir repository
