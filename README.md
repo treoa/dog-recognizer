@@ -2,6 +2,8 @@
 
 ![Last Care](https://img.shields.io/github/last-commit/treoa/dog-recognizer)
 
+[Darknet repo](https://github.com/AlexeyAB/darknet)
+
 ### For testing on images:
 
 1. Clone thir repository
@@ -15,4 +17,4 @@ or by launching ```test.py ``` file and running the ```clone_repo``` function
 3. Configure Makefile as in the second cloned repository, or by launching ```test.py ``` file and running the ```make_file``` function
 4. after running ```make``` manually or through ```test.py```, ```darknet.sh``` script must be in the root darknet folder
 5. Download pre-trained yolov4 weights
-6. Define helper functions of showing a prediction. It is given in the ```test.py``` file indicating function ```imShow```.
+6. Define helper functions of showing a prediction. It is given in the ```test.py``` file indicating function ```imShow```
